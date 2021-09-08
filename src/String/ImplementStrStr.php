@@ -1,6 +1,6 @@
 <?php
 
-namespace App\String;
+namespace App\BinaryTree\String;
 
 class ImplementStrStr
 {

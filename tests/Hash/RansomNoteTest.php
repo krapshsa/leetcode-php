@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Hash;
+namespace Test\BinaryTree\Hash;
 
-use App\DynamicProgramming\RansomNote;
+use App\BinaryTree\DynamicProgramming\RansomNote;
 use PHPUnit\Framework\TestCase;
 
 class RansomNoteTest extends TestCase

@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\String;
+namespace Test\BinaryTree\String;
 
-use App\String\RepeatedSubstringPattern;
+use App\BinaryTree\String\RepeatedSubstringPattern;
 use PHPUnit\Framework\TestCase;
 
 class RepeatedSubstringPatternTest extends TestCase

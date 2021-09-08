@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\String;
+namespace Test\BinaryTree\String;
 
-use App\String\ImplementStrStr;
+use App\BinaryTree\String\ImplementStrStr;
 use PHPUnit\Framework\TestCase;
 
 class ImplementStrStrTest extends TestCase

@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\StackAndQueue;
+namespace Test\BinaryTree\StackAndQueue;
 
-use App\StackAndQueue\ValidParentheses;
+use App\BinaryTree\StackAndQueue\ValidParentheses;
 use PHPUnit\Framework\TestCase;
 
 class ValidParenthesesTest extends TestCase

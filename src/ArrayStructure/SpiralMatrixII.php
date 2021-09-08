@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\ArrayStructure;
+namespace App\BinaryTree\ArrayStructure;
 
 
 class SpiralMatrixII

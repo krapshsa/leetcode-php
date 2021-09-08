@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\ArrayStructure;
+namespace Test\BinaryTree\ArrayStructure;
 
-use App\ArrayStructure\SpiralMatrixII;
+use App\BinaryTree\ArrayStructure\SpiralMatrixII;
 use PHPUnit\Framework\TestCase;
 
 class SpiralMatrixIITest extends TestCase

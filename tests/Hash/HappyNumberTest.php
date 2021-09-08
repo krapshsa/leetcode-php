@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Hash;
+namespace Test\BinaryTree\Hash;
 
-use App\Hash\HappyNumber;
+use App\BinaryTree\Hash\HappyNumber;
 use PHPUnit\Framework\TestCase;
 
 class HappyNumberTest extends TestCase

@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\String;
+namespace Test\BinaryTree\String;
 
-use App\String\ReverseWordsInAString;
+use App\BinaryTree\String\ReverseWordsInAString;
 use PHPUnit\Framework\TestCase;
 
 class ReverseWordsInAStringTest extends TestCase

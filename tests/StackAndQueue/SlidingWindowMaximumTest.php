@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\StackAndQueue;
+namespace Test\BinaryTree\StackAndQueue;
 
-use App\StackAndQueue\SlidingWindowMaximum;
+use App\BinaryTree\StackAndQueue\SlidingWindowMaximum;
 use PHPUnit\Framework\TestCase;
 
 class SlidingWindowMaximumTest extends TestCase

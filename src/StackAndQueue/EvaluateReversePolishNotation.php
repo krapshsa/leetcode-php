@@ -1,6 +1,6 @@
 <?php
 
-namespace App\StackAndQueue;
+namespace App\BinaryTree\StackAndQueue;
 
 class EvaluateReversePolishNotation
 {

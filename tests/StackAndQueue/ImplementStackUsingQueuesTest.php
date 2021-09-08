@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\StackAndQueue;
+namespace Test\BinaryTree\StackAndQueue;
 
-use App\StackAndQueue\ImplementStackUsingQueues;
+use App\BinaryTree\StackAndQueue\ImplementStackUsingQueues;
 use PHPUnit\Framework\TestCase;
 
 class ImplementStackUsingQueuesTest extends TestCase

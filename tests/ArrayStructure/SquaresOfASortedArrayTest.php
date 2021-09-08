@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\ArrayStructure;
+namespace Test\BinaryTree\ArrayStructure;
 
-use App\ArrayStructure\SquaresOfASortedArray;
+use App\BinaryTree\ArrayStructure\SquaresOfASortedArray;
 use PHPUnit\Framework\TestCase;
 
 class SquaresOfASortedArrayTest extends TestCase

@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\DynamicProgramming;
+namespace Test\BinaryTree\DynamicProgramming;
 
-use App\DynamicProgramming\CountingBits;
+use App\BinaryTree\DynamicProgramming\CountingBits;
 use PHPUnit\Framework\TestCase;
 
 class CountingBitsTest extends TestCase

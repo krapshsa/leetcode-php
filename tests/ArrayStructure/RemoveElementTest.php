@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\ArrayStructure;
+namespace Test\BinaryTree\ArrayStructure;
 
-use App\ArrayStructure\RemoveElement;
+use App\BinaryTree\ArrayStructure\RemoveElement;
 use PHPUnit\Framework\TestCase;
 
 class RemoveElementTest extends TestCase

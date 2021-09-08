@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Hash;
+namespace App\BinaryTree\Hash;
 
 use phpDocumentor\Reflection\Types\True_;
 

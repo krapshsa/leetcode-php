@@ -38,4 +38,33 @@ trait Buildable
         }
         return $rootNode;
     }
+
+    /**
+     * @param $result
+     * @return array
+     */
+    public function getLevelOrderValues($result): array
+    {
+        $levelOrderValues = [];
+        $queue = new \SplQueue();
+        $queue->push($result);
+        while (!$queue->isEmpty()) {
+            $node = $queue->shift();
+            if ($node) {
+                $levelOrderValues[] = $node->val;
+                $queue->push($node->left);
+                $queue->push($node->right);
+            } else {
+                $levelOrderValues[] = null;
+            }
+        }
+        for ($i = count($levelOrderValues) - 1; $i >= 0; $i--) {
+            if (null === $levelOrderValues[$i]) {
+                unset($levelOrderValues[$i]);
+            } else {
+                break;
+            }
+        }
+        return $levelOrderValues;
+    }
 }

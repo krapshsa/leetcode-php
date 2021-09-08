@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Hash;
+namespace Test\BinaryTree\Hash;
 
-use App\DynamicProgramming\ThreeSum;
+use App\BinaryTree\DynamicProgramming\ThreeSum;
 use PHPUnit\Framework\TestCase;
 
 class ThreeSumTest extends TestCase

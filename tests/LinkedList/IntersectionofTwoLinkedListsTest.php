@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\LinkedList;
+namespace Test\BinaryTree\LinkedList;
 
-use App\LinkedList\IntersectionofTwoLinkedLists;
+use App\BinaryTree\LinkedList\IntersectionofTwoLinkedLists;
 use PHPUnit\Framework\TestCase;
 
 class IntersectionofTwoLinkedListsTest extends TestCase

@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\LinkedList;
+namespace Test\BinaryTree\LinkedList;
 
-use App\LinkedList\RemoveNthNodeFromEndofList;
+use App\BinaryTree\LinkedList\RemoveNthNodeFromEndofList;
 use PHPUnit\Framework\TestCase;
 
 class RemoveNthNodeFromEndofListTest extends TestCase

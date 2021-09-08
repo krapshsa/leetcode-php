@@ -4,13 +4,15 @@ namespace App\BinaryTree;
 
 class TreeNode
 {
-    public $val = null;
-    public $left = null;
-    public $right = null;
-    function __construct($val = 0, $left = null, $right = null)
+    public int $val;
+    public ?TreeNode $left;
+    public ?TreeNode $right;
+    public ?TreeNode $next;
+    function __construct($val = 0)
     {
-        $this->val = $val;
-        $this->left = $left;
-        $this->right = $right;
+        $this->val   = $val;
+        $this->left  = null;
+        $this->right = null;
+        $this->next  = null;
     }
 }

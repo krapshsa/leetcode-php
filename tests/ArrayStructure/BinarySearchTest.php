@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\ArrayStructure;
+namespace Test\BinaryTree\ArrayStructure;
 
-use App\ArrayStructure\BinarySearch;
+use App\BinaryTree\ArrayStructure\BinarySearch;
 use PHPUnit\Framework\TestCase;
 
 class BinarySearchTest extends TestCase

@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Hash;
+namespace Test\BinaryTree\Hash;
 
-use App\Hash\IntersectionofTwoArrays;
+use App\BinaryTree\Hash\IntersectionofTwoArrays;
 use PHPUnit\Framework\TestCase;
 
 class IntersectionofTwoArraysTest extends TestCase

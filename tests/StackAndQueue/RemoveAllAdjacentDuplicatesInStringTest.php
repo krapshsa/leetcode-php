@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\StackAndQueue;
+namespace Test\BinaryTree\StackAndQueue;
 
-use App\StackAndQueue\RemoveAllAdjacentDuplicatesInString;
+use App\BinaryTree\StackAndQueue\RemoveAllAdjacentDuplicatesInString;
 use PHPUnit\Framework\TestCase;
 
 class RemoveAllAdjacentDuplicatesInStringTest extends TestCase

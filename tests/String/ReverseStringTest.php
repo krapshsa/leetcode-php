@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\String;
+namespace Test\BinaryTree\String;
 
-use App\String\ReverseString;
+use App\BinaryTree\String\ReverseString;
 use PHPUnit\Framework\TestCase;
 
 class ReverseStringTest extends TestCase

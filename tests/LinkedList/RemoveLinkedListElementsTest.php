@@ -1,9 +1,9 @@
 <?php
 
-namespace Test\LinkedList;
+namespace Test\BinaryTree\LinkedList;
 
-use App\LinkedList\ListNode;
-use App\LinkedList\RemoveLinkedListElements;
+use App\BinaryTree\LinkedList\ListNode;
+use App\BinaryTree\LinkedList\RemoveLinkedListElements;
 use PHPUnit\Framework\TestCase;
 
 class RemoveLinkedListElementsTest extends TestCase

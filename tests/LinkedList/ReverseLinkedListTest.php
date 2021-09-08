@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\LinkedList;
+namespace Test\BinaryTree\LinkedList;
 
-use App\LinkedList\ReverseLinkedList;
+use App\BinaryTree\LinkedList\ReverseLinkedList;
 use PHPUnit\Framework\TestCase;
 
 class ReverseLinkedListTest extends TestCase

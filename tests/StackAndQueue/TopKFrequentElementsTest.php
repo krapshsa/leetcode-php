@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\StackAndQueue;
+namespace Test\BinaryTree\StackAndQueue;
 
-use App\StackAndQueue\TopKFrequentElements;
+use App\BinaryTree\StackAndQueue\TopKFrequentElements;
 use PHPUnit\Framework\TestCase;
 
 class TopKFrequentElementsTest extends TestCase

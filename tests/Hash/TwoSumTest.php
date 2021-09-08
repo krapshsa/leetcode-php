@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Hash;
+namespace Test\BinaryTree\Hash;
 
-use App\Hash\TwoSum;
+use App\BinaryTree\Hash\TwoSum;
 use PHPUnit\Framework\TestCase;
 
 class TwoSumTest extends TestCase

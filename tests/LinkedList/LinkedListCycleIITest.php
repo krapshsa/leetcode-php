@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\LinkedList;
+namespace Test\BinaryTree\LinkedList;
 
-use App\LinkedList\LinkedListCycleII;
+use App\BinaryTree\LinkedList\LinkedListCycleII;
 use PHPUnit\Framework\TestCase;
 
 class LinkedListCycleIITest extends TestCase

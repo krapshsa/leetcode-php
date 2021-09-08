@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\BinaryTree;
+namespace Test\BinaryTree\BinaryTree;
 
-use App\BinaryTree\BinaryTreeInorderTraversalByStack;
+use App\BinaryTree\Tree\BinaryTreeInorderTraversalByStack;
 use PHPUnit\Framework\TestCase;
 
 class BinaryTreeInorderTraversalByStackTest extends TestCase

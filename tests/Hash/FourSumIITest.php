@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Hash;
+namespace Test\BinaryTree\Hash;
 
-use App\Hash\FourSumII;
+use App\BinaryTree\Hash\FourSumII;
 use PHPUnit\Framework\TestCase;
 
 class FourSumIITest extends TestCase

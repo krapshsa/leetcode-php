@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\LinkedList;
+namespace Test\BinaryTree\LinkedList;
 
-use App\LinkedList\SwapNodesInPairs;
+use App\BinaryTree\LinkedList\SwapNodesInPairs;
 use PHPUnit\Framework\TestCase;
 
 class SwapNodesInPairsTest extends TestCase

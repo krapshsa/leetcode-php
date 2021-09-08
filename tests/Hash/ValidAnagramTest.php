@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Hash;
+namespace Test\BinaryTree\Hash;
 
-use App\Hash\ValidAnagram;
+use App\BinaryTree\Hash\ValidAnagram;
 use PHPUnit\Framework\TestCase;
 
 class ValidAnagramTest extends TestCase

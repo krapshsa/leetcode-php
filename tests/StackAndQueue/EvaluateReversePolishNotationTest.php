@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\StackAndQueue;
+namespace Test\BinaryTree\StackAndQueue;
 
-use App\StackAndQueue\EvaluateReversePolishNotation;
+use App\BinaryTree\StackAndQueue\EvaluateReversePolishNotation;
 use PHPUnit\Framework\TestCase;
 
 class EvaluateReversePolishNotationTest extends TestCase

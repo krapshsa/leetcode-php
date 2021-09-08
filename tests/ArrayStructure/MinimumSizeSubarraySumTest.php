@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\ArrayStructure;
+namespace Test\BinaryTree\ArrayStructure;
 
-use App\ArrayStructure\MinimumSizeSubarraySum;
+use App\BinaryTree\ArrayStructure\MinimumSizeSubarraySum;
 use PHPUnit\Framework\TestCase;
 
 class MinimumSizeSubarraySumTest extends TestCase

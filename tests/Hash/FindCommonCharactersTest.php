@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Hash;
+namespace Test\BinaryTree\Hash;
 
-use App\Hash\FindCommonCharacters;
+use App\BinaryTree\Hash\FindCommonCharacters;
 use PHPUnit\Framework\TestCase;
 
 class FindCommonCharactersTest extends TestCase

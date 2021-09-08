@@ -1,6 +1,6 @@
 <?php
 
-namespace App\LinkedList;
+namespace App\BinaryTree\LinkedList;
 
 class IntersectionofTwoLinkedLists
 {

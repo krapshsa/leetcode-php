@@ -1,6 +1,6 @@
 <?php
 
-namespace App\BinaryTree;
+namespace App\BinaryTree\BinaryTree;
 
 class BinaryTreePreorderTraversal
 {

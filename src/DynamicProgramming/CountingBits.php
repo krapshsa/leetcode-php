@@ -1,6 +1,6 @@
 <?php
 
-namespace App\DynamicProgramming;
+namespace App\BinaryTree\DynamicProgramming;
 
 class CountingBits
 {
